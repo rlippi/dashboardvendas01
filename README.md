@@ -1,4 +1,4 @@
-# Projeto criação de um Dashboard utilizando opelo PowerBI 
+# Projeto criação de um Dashboard utilizando o PowerBI 
 
 Resumo do que foi utilizado:
 - Power BI Microsoft (versão gratuita);
@@ -16,7 +16,7 @@ Não há o passo a passo de como criar o Dashboard, nem de como tratar a base de
 Instalar o PowerBI, caso não tenha, faça download no site oficial:
 [Download PowerBI](https://powerbi.microsoft.com/pt-br/desktop/)
 
-O PowerPoint pode ser utilizando de maneira gratuita ao fazer o login em (https://powerbi.microsoft.com/pt-br/desktop/) no ícone power point na barra lateral esquerda.
+O PowerPoint pode ser utilizando de maneira gratuita ao fazer o login em "https://outlook.com/" no ícone power point na barra lateral esquerda. (O PowerPoint só será necessário caso queira editar o layout do Dashboard)
  
 Com o PowerBI instalado, faça download ou clone esse repositório (precisa ter o git configurado) em algum local do seu computador com o seguinte comando no terminal:
 
